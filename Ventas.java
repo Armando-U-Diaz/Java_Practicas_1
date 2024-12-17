@@ -29,7 +29,7 @@ public class Ventas {
                 sumaTotal += total;
             }
             System.out.println("Total del mes: $ " + sumaTotal);
-            System.out.println("======================================================================================");
+            System.out.println("===================================================================================");
             x=Byte.parseByte(JOptionPane.showInputDialog("""
                                                                 >Nuevo mes ingrese: 1
                                                                 >Finalizar ingrese: 2
