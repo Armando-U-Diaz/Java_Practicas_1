@@ -4,7 +4,7 @@ public class Ventas {
         byte repetir = 1, x = 1, n = 0;
         String mes = null, nombre = null;
         float total = 0, sumaTotal = 0;
-        int i = 0, j = 1, costo = 150;
+        int i = 0, j = 1, costo = 250;
         int [][]matriz;
         while (repetir == x) {
             short numProvedor = 1;
