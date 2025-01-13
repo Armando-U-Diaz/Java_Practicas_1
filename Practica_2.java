@@ -13,7 +13,7 @@ public class Practica_2 {
             System.out.println("Calificacin reprovatoria");
         }
         else {
-            System.out.println("Calificacion aprovatoria");
+            System.out.println("Calificación aprovatoria");
         }
     }
 }
